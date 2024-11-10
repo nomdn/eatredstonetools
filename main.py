@@ -43,6 +43,13 @@ class MainWindow(QMainWindow, Ui_MainWindow):
     def on_dnyouxuanshuxueti_clicked(self):
         subprocess.Popen(['start', 'tu.exe'], shell=True)
         print("pass")
+
+    def on_pushButton_5_clicked(self):
+        subprocess.Popen(['start', 'englishai.exe'], shell=True)
+        print("pass")
+    def on_dnyouxuanyuwenti_clicked(self):
+        subprocess.Popen(['start', 'gushici.exe'], shell=True)
+        print("pass")
 if __name__ == "__main__":
     app = QApplication(sys.argv)
     mainWindow = MainWindow()
