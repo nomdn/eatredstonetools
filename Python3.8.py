@@ -16,13 +16,7 @@ for i in range(timefor):
         time2 = random.randint(1, 3)
 
         time.sleep(time2)
-        print('''
-Traceback (most recent call last):
-  File "your_code.py", line 1145 , in <module>
-    Never gonna give you up
-  File "<string>", line 1, in <module>
-NoError:This isn't the true Python IDEL:)))
-                         ''')
+
     except:
 
         traceback.print_exc()
