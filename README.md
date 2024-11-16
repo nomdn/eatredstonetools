@@ -8,4 +8,4 @@
 
 
 需要全部封装成exe才可以使用
-![输入图片说明](markdown/image%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE_16-11-2024_105312_kkgithub.com.jpeg)
+![输入图片说明](image屏幕截图_16-11-2024_105312_kkgithub.com.jpeg)
